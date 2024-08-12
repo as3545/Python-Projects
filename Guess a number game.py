@@ -24,3 +24,8 @@ if not flag:
     print("Try again")
     print("The result is %d" % r)
     print("Game Over")
+
+# Time Complexity: 
+# The time complexity of this code is O(log2n) 
+# Space Complexity:
+# The space complexity of this code is O(1) 
